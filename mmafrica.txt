@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Millionaires in Africa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Millionaires in Africa</h1>
+        <p>Exploring the wealth and success stories of Africa's millionaires.</p>
+    </header>
+    <main>
+        <section>
+            <h2>Top Millionaires</h2>
+            <ul>
+                <li>Aliko Dangote - Nigeria</li>
+                <li>Mike Adenuga - Nigeria</li>
+                <li>Patrice Motsepe - South Africa</li>
+                <li>Nicky Oppenheimer - South Africa</li>
+                <li>Mohammed Dewji - Tanzania</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Success Stories</h2>
+            <p>Learn about the journeys of these successful individuals and their contributions to the economy.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Millionaires in Africa</p>
+    </footer>
+</body>
+</html>
